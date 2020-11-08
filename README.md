@@ -4,7 +4,7 @@ github chinese ranking：旨在更好的学习与分享更优秀的中文项目�
 - 中文项目排行榜   http://soblog.cc/github_chinese_ranking
 - Java    http://soblog.cc/github_chinese_ranking/Java
 - Python  http://soblog.cc/github_chinese_ranking/Python
-- Go      http://soblog.cc/github_chinese_ranking/Go
+- Golang      http://soblog.cc/github_chinese_ranking/Go
 - C       http://soblog.cc/github_chinese_ranking/C
 - JavaScript  http://soblog.cc/github_chinese_ranking/JavaScript
 
