@@ -1,5 +1,5 @@
 # github_chinese_ranking
-github chinese ranking
+github chinese ranking：旨在更好的学习与分享更优秀的中文项目。
 
 - 中文项目排行榜   http://www.soblog.cc/github_chinese_ranking
 - Java    http://www.soblog.cc/github_chinese_ranking/Java
