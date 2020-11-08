@@ -10,3 +10,9 @@ github chinese ranking
 
 - 机器学习    http://www.soblog.cc/github_chinese_ranking/ml
 - 深度学习    http://www.soblog.cc/github_chinese_ranking/dl
+- 自然语言处理    http://www.soblog.cc/github_chinese_ranking/nlp
+
+- 大数据    http://www.soblog.cc/github_chinese_ranking/bigdata
+- 数据结构与算法    http://www.soblog.cc/github_chinese_ranking/algorithm
+- Flutter    http://www.soblog.cc/github_chinese_ranking/flutter
+- 小程序     http://www.soblog.cc/github_chinese_ranking/small
